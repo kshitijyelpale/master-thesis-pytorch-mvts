@@ -1,0 +1,121 @@
+(1205688, 33)
+Train data transform
+1205628
+(304995, 33)
+Test data transform
+304935
+
+
+Time for testing: 297.4159836769104 seconds
+accuracy: 0.8506632447242737
+
+Time for testing: 576.242306470871 seconds
+accuracy: 0.8506632447242737
+
+batch size-128
+industry result with earlystopping
+val_loss=0.049, val_accuracy=0.983
+epochs = 29	acc = 0.919569730758667
+
+
+
+
+Industry data set 2 epochs, dropout-0.5, lr-0.0001
+
+batch size-128
+train-9420
+val-942
+test-2383
+accuracy: 0.9126600623130798
+
+
+batch size-256
+train-4710
+val-471
+test-1192
+accuracy: 0.9098660349845886
+
+batch size-1024
+train-1178
+val-118
+test-298
+{'test_accuracy': 0.8745864033699036, 'test_loss': 0.39372488856315613}
+Time for testing: 294.64283514022827 seconds
+accuracy: 0.8745864033699036
+
+
+batch size-2048
+train-589
+val-59
+test-149
+{'test_accuracy': 0.8506632447242737, 'test_loss': 0.48564663529396057}
+Time for testing: 295.33353877067566 seconds
+accuracy: 0.8506632447242737
+
+batch size-2048 and lr-0.005
+train-589
+val-59
+test-149
+accuracy: 0.9271844625473022
+
+batch size-2048 and lr-0.005 and dropout-0.25
+train-589
+val-59
+test-149
+accuracy: 0.9271844625473022
+
+batch size-4096
+train-295
+val-30
+test-75
+{'test_accuracy': 0.7919359803199768, 'test_loss': 0.6622542142868042}
+Time for testing: 298.5846264362335 seconds
+accuracy: 0.7919359803199768
+
+
+batch size-8192
+train-148
+val-15
+test-38
+{'test_accuracy': 0.6866676211357117, 'test_loss': 1.0290592908859253}
+Time for testing: 319.26635551452637 seconds
+accuracy: 0.6866676211357117
+
+
+=============
+distributed
+
+batch size-1024 
+4 gpus, ddp
+train-295
+val-30
+test-75
+{'test_accuracy': 0.7943240404129028, 'test_loss': 0.652656078338623}
+Time for testing: 306.82825446128845 seconds
+accuracy: 0.7943233847618103
+
+batch size = 256
+accuracy: 0.8767118453979492
+
+batch size = 256 and lr-0.001
+accuracy: 0.9238725304603577
+
+batch size = 512 and lr-0.001
+accuracy: 0.9190124869346619
+
+batch size = 512 and lr-0.005 and dropout-0.25
+accuracy: 0.9305395483970642
+
+batch size = 512 and lr-0.005
+accuracy: 0.9305395483970642
+0.9248301386833191
+
+
+batch size = 4096
+industry result with early stopping 
+val_loss=0.285, val_accuracy=0.909
+epochs = 44, acc = 0.8990083336830139
+
+industry result without early stopping 
+val_loss=0.164, val_accuracy=0.945
+epochs 100, acc = 0.906452476978302

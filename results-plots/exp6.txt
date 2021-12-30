@@ -1,0 +1,331 @@
+partial industry data sets used for fine tuning with only sessoracceleration columns 
+
+5-64
+
+industry-lstm
+5%
+{"91216": [0.782599151134491, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v300.ckpt"], "37659": [0.8234378695487976, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v304.ckpt"], "12204": [0.7048593759536743, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v307.ckpt"], "1228": [0.8794455528259277, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v311.ckpt"], "16754": [0.8402766585350037, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v317.ckpt"], "39547": [0.8123242259025574, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v320.ckpt"], "30107": [0.7143985033035278, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v323.ckpt"], "59305": [0.8285054564476013, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v327.ckpt"], "6498": [0.8555760383605957, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v331.ckpt"], "69130": [0.7950941324234009, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v339.ckpt"]}
+['300', '304', '307', '311', '317', '320', '323', '327', '331', '339']
+
+
+10%
+{"73456": [0.8220574855804443, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v301.ckpt"], "6185": [0.8221039772033691, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v306.ckpt"], "38145": [0.8161572813987732, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v310.ckpt"], "88818": [0.7817379832267761, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v315.ckpt"], "30022": [0.7237001061439514, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v321.ckpt"], "76314": [0.8132870197296143, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v329.ckpt"], "92471": [0.775184690952301, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v334.ckpt"], "61013": [0.8408360481262207, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v341.ckpt"], "8120": [0.7848564982414246, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v343.ckpt"], "15510": [0.8186590671539307, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v346.ckpt"]}
+['301', '306', '310', '315', '321', '329', '334', '341', '343', '346']
+
+
+25%
+{"63280": [0.7800336480140686, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v302.ckpt"], "52052": [0.8454358577728271, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v313.ckpt"], "4080": [0.8344539403915405, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v335.ckpt"], "54089": [0.8279571533203125, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v347.ckpt"], "33981": [0.8666572570800781, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v355.ckpt"], "67": [0.8588881492614746, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v361.ckpt"], "60227": [0.80845046043396, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v367.ckpt"], "84794": [0.8301273584365845, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v374.ckpt"], "6277": [0.8169975876808167, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v377.ckpt"], "279": [0.8403401374816895, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v381.ckpt"]}
+['302', '313', '335', '347', '355', '361', '367', '374', '377', '381']
+
+
+50%
+{"61167": [0.8184598684310913, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v303.ckpt"], "79959": [0.8327059745788574, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v336.ckpt"], "55390": [0.8099187612533569, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v351.ckpt"], "47169": [0.8628650307655334, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v358.ckpt"], "18378": [0.8136482834815979, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v366.ckpt"], "19219": [0.8017938733100891, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v378.ckpt"], "83932": [0.8018961548805237, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v384.ckpt"], "94016": [0.8150448799133301, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v386.ckpt"], "57511": [0.8582356572151184, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v389.ckpt"], "17035": [0.8356878161430359, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v391.ckpt"]}
+['303', '336', '351', '358', '366', '378', '384', '386', '389', '391']
+
+
+75%
+{"26266": [0.8404622077941895, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v305.ckpt"], "56316": [0.8106565475463867, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v337.ckpt"], "15313": [0.8571414947509766, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v348.ckpt"], "2996": [0.8312063813209534, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v356.ckpt"], "35532": [0.8263708353042603, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v362.ckpt"], "64287": [0.8395745158195496, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v372.ckpt"], "73436": [0.8550017476081848, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v376.ckpt"], "74472": [0.8493518233299255, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v380.ckpt"], "60151": [0.8675678372383118, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v385.ckpt"], "53895": [0.8121524453163147, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v387.ckpt"]}
+['305', '337', '348', '356', '362', '372', '376', '380', '385', '387']
+
+
+100%
+
+
+fine-lstm
+train
+{"15809":{"1.0":0.8524575233459473},"80696":{"1.0":0.8542431592941284},"58494":{"1.0":0.8491430282592773},"71251":{"1.0":0.8802517652511597},"45504":{"1.0":0.8662959337234497},"32879":{"1.0":0.8650586605072021},"17163":{"1.0":0.840066134929657},"31785":{"1.0":0.8614603281021118},"39004":{"1.0":0.8592147827148438},"99191":{"1.0":0.8552228212356567}}
+
+5%
+{"5022": {"1.0": 0.8691906929016113}, "74966": {"1.0": 0.8650528192520142}, "18073": {"1.0": 0.8762893080711365}, "73444": {"1.0": 0.8482193946838379}, "14123": {"1.0": 0.850519061088562}, "89435": {"1.0": 0.8727989196777344}, "91160": {"1.0": 0.8414657115936279}, "72714": {"1.0": 0.8495697379112244}, "44215": {"1.0": 0.8700270056724548}, "55662": {"1.0": 0.8470835089683533}}
+
+10%
+{"79712": {"1.0": 0.8460924625396729}, "14544": {"1.0": 0.8692291975021362}, "80033": {"1.0": 0.8687337040901184}, "447": {"1.0": 0.8660377264022827}, "53601": {"1.0": 0.8474507331848145}, "79516": {"1.0": 0.8607426285743713}, "15993": {"1.0": 0.8594611287117004}, "2141": {"1.0": 0.8719218373298645}, "58115": {"1.0": 0.8454700112342834}, "2532": {"1.0": 0.8641663789749146}}
+
+25%
+{"29756": {"1.0": 0.8713954091072083}, "31942": {"1.0": 0.8603525757789612}, "62518": {"1.0": 0.853709876537323}, "68055": {"1.0": 0.8682516813278198}, "21560": {"1.0": 0.8562813997268677}, "88127": {"1.0": 0.8610758185386658}, "4749": {"1.0": 0.8589749336242676}, "81855": {"1.0": 0.8619047403335571}, "97978": {"1.0": 0.8439229130744934}, "84074": {"1.0": 0.8574959635734558}}
+
+50%
+{"59151": {"1.0": 0.8646159768104553}, "26291": {"1.0": 0.8781816363334656}, "74116": {"1.0": 0.858868420124054}, "18187": {"1.0": 0.8452613949775696}, "4380": {"1.0": 0.842530369758606}, "61723": {"1.0": 0.8337100148200989}, "80388": {"1.0": 0.868946373462677}, "35953": {"1.0": 0.8590641021728516}, "83821": {"1.0": 0.845238447189331}, "6714": {"1.0": 0.878603458404541}}
+
+75%
+{"12166": {"1.0": 0.8661475777626038}, "54755": {"1.0": 0.8661686778068542}, "80275": {"1.0": 0.85993492603302}, "99167": {"1.0": 0.8661683201789856}, "31674": {"1.0": 0.8789226412773132}, "49021": {"1.0": 0.861221432685852}, "48246": {"1.0": 0.8709608316421509}, "13911": {"1.0": 0.8637110590934753}, "93415": {"1.0": 0.8776182532310486}, "82549": {"1.0": 0.8664259314537048}}
+
+100%
+{"87482":{"1.0":0.8577629327774048},"49327":{"1.0":0.8618574738502502},"97558":{"1.0":0.843779981136322},"65319":{"1.0":0.8478254079818726},"39389":{"1.0":0.8713297843933105},"53126":{"1.0":0.8257718682289124},"13421":{"1.0":0.880023717880249},"20537":{"1.0":0.8577608466148376},"1926":{"1.0":0.8522191643714905},"16508":{"1.0":0.8500426411628723}}
+
+
+industry-gru
+5%
+{"45364": [0.8896252512931824, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v308.ckpt"], "44288": [0.6323310136795044, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v312.ckpt"], "65894": [0.8596638441085815, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v316.ckpt"], "7943": [0.7889204025268555, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v318.ckpt"], "54455": [0.7946696877479553, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v322.ckpt"], "35335": [0.8918027281761169, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v324.ckpt"], "10136": [0.8462351560592651, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v326.ckpt"], "92569": [0.7654259204864502, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v330.ckpt"], "74100": [0.8406786322593689, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v333.ckpt"], "98587": [0.8716307878494263, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v338.ckpt"]}
+['308', '312', '316', '318', '322', '324', '326', '330', '333', '338']
+
+
+10%
+{"84956": [0.8026116490364075, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v309.ckpt"], "53090": [0.8348164558410645, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v314.ckpt"], "78849": [0.7686204314231873, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v319.ckpt"], "75189": [0.7981443405151367, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v325.ckpt"], "2501": [0.7620329260826111, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v328.ckpt"], "19529": [0.8291143178939819, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v332.ckpt"], "43848": [0.8189170360565186, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v340.ckpt"], "2007": [0.740342378616333, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v342.ckpt"], "74107": [0.8105229139328003, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v344.ckpt"], "50337": [0.8375246524810791, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v345.ckpt"]}
+['309', '314', '319', '325', '328', '332', '340', '342', '344', '345']
+
+
+25%
+{"28308": [0.816070020198822, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v349.ckpt"], "31431": [0.8176721930503845, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v352.ckpt"], "43809": [0.8066644072532654, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v353.ckpt"], "88860": [0.7812803387641907, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v357.ckpt"], "2593": [0.8008148670196533, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v359.ckpt"], "13780": [0.851538896560669, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v363.ckpt"], "38571": [0.8506348729133606, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v365.ckpt"], "96490": [0.8058515787124634, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v369.ckpt"], "97496": [0.8693743944168091, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v370.ckpt"], "35009": [0.8386710286140442, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v373.ckpt"]}
+['349', '352', '353', '357', '359', '363', '365', '369', '370', '373']
+
+
+50%
+{"21682": [0.7881603837013245, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v350.ckpt"], "64898": [0.8203990459442139, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v354.ckpt"], "86621": [0.8222153782844543, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v360.ckpt"], "82270": [0.8290196061134338, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v364.ckpt"], "59513": [0.8104568719863892, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v368.ckpt"], "58571": [0.8049907684326172, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v371.ckpt"], "51364": [0.8168045878410339, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v375.ckpt"], "86494": [0.8312276005744934, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v379.ckpt"], "20763": [0.7938169836997986, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v382.ckpt"], "6835": [0.7963152527809143, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v383.ckpt"]}
+['350', '354', '360', '364', '368', '371', '375', '379', '382', '383']
+
+
+75%
+{"58939": [0.8344182372093201, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v388.ckpt"], "40626": [0.8283105492591858, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v390.ckpt"], "7891": [0.8331223130226135, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v392.ckpt"], "13010": [0.7922899723052979, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v393.ckpt"], "78468": [0.8320081830024719, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v394.ckpt"], "13654": [0.840791642665863, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v395.ckpt"], "49012": [0.7948194146156311, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v396.ckpt"], "11495": [0.810529887676239, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v397.ckpt"], "82297": [0.8235777616500854, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v398.ckpt"], "52895": [0.8311264514923096, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v399.ckpt"]}
+['388', '390', '392', '393', '394', '395', '396', '397', '398', '399']
+
+
+100%
+
+
+fine-gru
+5%
+{"81905": {"1.0": 0.8060386776924133}, "50285": {"1.0": 0.7900338172912598}, "10011": {"1.0": 0.7424210906028748}, "80349": {"1.0": 0.7725162506103516}, "35693": {"1.0": 0.8072320222854614}, "18927": {"1.0": 0.7677991986274719}, "7177": {"1.0": 0.8170871138572693}, "60930": {"1.0": 0.8107816576957703}, "41858": {"1.0": 0.8002443313598633}, "16954": {"1.0": 0.7917879819869995}}
+
+10%
+{"52283": {"1.0": 0.7913800477981567}, "10140": {"1.0": 0.7943287491798401}, "30296": {"1.0": 0.8069772124290466}, "3925": {"1.0": 0.8075432181358337}, "22454": {"1.0": 0.8049628138542175}, "4258": {"1.0": 0.8088836073875427}, "6982": {"1.0": 0.7975634932518005}, "78596": {"1.0": 0.8254373073577881}, "94287": {"1.0": 0.7998747825622559}, "8077": {"1.0": 0.7944781184196472}}
+
+25%
+{"58758": {"1.0": 0.6557228565216064}, "13510": {"1.0": 0.7961792349815369}, "52118": {"1.0": 0.7806446552276611}, "49699": {"1.0": 0.7885982394218445}, "66814": {"1.0": 0.77609783411026}, "87674": {"1.0": 0.8098454475402832}, "79802": {"1.0": 0.7880858778953552}, "22458": {"1.0": 0.7869762182235718}, "94013": {"1.0": 0.7787940502166748}, "84672": {"1.0": 0.80464106798172}}
+
+50%
+{"80609": {"1.0": 0.8121120929718018}, "81456": {"1.0": 0.8213983178138733}, "23825": {"1.0": 0.7948156595230103}, "13474": {"1.0": 0.8207841515541077}, "57007": {"1.0": 0.7626856565475464}, "48079": {"1.0": 0.8176876306533813}, "33390": {"1.0": 0.7902213335037231}, "14654": {"1.0": 0.8269374966621399}, "76127": {"1.0": 0.7926415801048279}, "130": {"1.0": 0.794833242893219}}
+
+75%
+{"93400": {"1.0": 0.7827885150909424}, "62526": {"1.0": 0.7966142296791077}, "36778": {"1.0": 0.8165862560272217}, "79115": {"1.0": 0.7669406533241272}, "83387": {"1.0": 0.7691771388053894}, "76356": {"1.0": 0.7875722646713257}, "44493": {"1.0": 0.8078174591064453}, "54363": {"1.0": 0.7949218153953552}, "12110": {"1.0": 0.8031167387962341}, "8941": {"1.0": 0.8046766519546509}}
+
+100%
+{"21464":{"1.0":0.7929465770721436},"63673":{"1.0":0.8155438303947449},"79085":{"1.0":0.7918336391448975},"39335":{"1.0":0.7805437445640564},"29825":{"1.0":0.7987657785415649},"4331":{"1.0":0.7945220470428467},"85414":{"1.0":0.8251410722732544},"31624":{"1.0":0.8042945861816406},"17561":{"1.0":0.8134036660194397},"7028":{"1.0":0.7738281488418579}}
+
+train
+{"55270":{"1.0":0.8165609836578369},"53972":{"1.0":0.8216354250907898},"22091":{"1.0":0.8064608573913574},"40108":{"1.0":0.8283126950263977},"8004":{"1.0":0.8260045051574707},"88305":{"1.0":0.8175535202026367},"98533":{"1.0":0.832523763179779},"77049":{"1.0":0.8285530209541321},"16651":{"1.0":0.812022864818573},"90188":{"1.0":0.8019469976425171}}
+
+
+##################################################################################################################################################
+
+
+4-64
+
+industry-lstm
+5%
+{"90572": [0.8598392009735107, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v411.ckpt"], "18950": [0.8392977714538574, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v417.ckpt"], "39500": [0.8558139801025391, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v424.ckpt"], "42079": [0.8641204833984375, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v427.ckpt"], "15506": [0.8424270749092102, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v435.ckpt"], "17274": [0.7744934558868408, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v438.ckpt"], "58664": [0.8912957310676575, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v444.ckpt"], "14688": [0.8261350989341736, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v449.ckpt"], "66861": [0.803443968296051, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v453.ckpt"], "97230": [0.8590968251228333, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v458.ckpt"]}
+['411', '417', '424', '427', '435', '438', '444', '449', '453', '458']
+
+
+10%
+{"28316": [0.8089837431907654, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v412.ckpt"], "62790": [0.8749772310256958, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v419.ckpt"], "84710": [0.872480571269989, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v423.ckpt"], "68910": [0.7726858258247375, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v436.ckpt"], "94796": [0.8397881984710693, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v442.ckpt"], "10258": [0.8979234099388123, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v446.ckpt"], "52178": [0.7702140808105469, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v450.ckpt"], "25536": [0.8136341571807861, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v460.ckpt"], "91624": [0.7810872197151184, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v462.ckpt"], "24052": [0.7767590880393982, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v468.ckpt"]}
+['412', '419', '423', '436', '442', '446', '450', '460', '462', '468']
+
+25%
+{"44649": [0.85246342420578, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v413.ckpt"], "54222": [0.8493279814720154, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v437.ckpt"], "21857": [0.8697747588157654, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v447.ckpt"], "70161": [0.8673064112663269, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v455.ckpt"], "99746": [0.7948380708694458, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v471.ckpt"], "26951": [0.8061950206756592, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v475.ckpt"], "92893": [0.8365050554275513, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v476.ckpt"], "8052": [0.8113490343093872, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v481.ckpt"], "39303": [0.8257609009742737, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v484.ckpt"], "92681": [0.8337979316711426, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v488.ckpt"]}
+['413', '437', '447', '455', '471', '475', '476', '481', '484', '488']
+
+50%
+{"44983": [0.8241018652915955, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v410.ckpt"], "93104": [0.8000444173812866, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v429.ckpt"], "61736": [0.8125956058502197, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v443.ckpt"], "90102": [0.8350917100906372, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v456.ckpt"], "81087": [0.8052188158035278, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v465.ckpt"], "73597": [0.830626904964447, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v473.ckpt"], "59026": [0.8582713007926941, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v477.ckpt"], "9450": [0.8244819045066833, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v482.ckpt"], "25898": [0.782600462436676, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v487.ckpt"], "34401": [0.8307687044143677, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v493.ckpt"]}
+['410', '429', '443', '456', '465', '473', '477', '482', '487', '493']
+
+75%
+{"51238": [0.8408980369567871, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v409.ckpt"], "80154": [0.8433811664581299, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v426.ckpt"], "64167": [0.853274941444397, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v454.ckpt"], "89110": [0.844723641872406, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v466.ckpt"], "48008": [0.8081876635551453, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v474.ckpt"], "19001": [0.8500697612762451, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v479.ckpt"], "40654": [0.8205910325050354, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v485.ckpt"], "23030": [0.8463907837867737, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v491.ckpt"], "98591": [0.8386675715446472, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v495.ckpt"], "48239": [0.8295938372612, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v498.ckpt"]}
+['409', '426', '454', '466', '474', '479', '485', '491', '495', '498']
+
+100%
+
+
+fine-lstm
+train
+{"64094":{"1.0":0.8584941029548645},"70739":{"1.0":0.8385530114173889},"44485":{"1.0":0.8664855360984802},"7926":{"1.0":0.8664739727973938},"9275":{"1.0":0.8648632168769836},"59859":{"1.0":0.8651381134986877},"10284":{"1.0":0.8698087930679321},"57087":{"1.0":0.8536409735679626},"73909":{"1.0":0.8798909783363342},"22960":{"1.0":0.8677811026573181}}
+
+5%
+{"81357": {"1.0": 0.8628029823303223}, "45184": {"1.0": 0.8799545168876648}, "64080": {"1.0": 0.8683737516403198}, "27779": {"1.0": 0.8458943963050842}, "78493": {"1.0": 0.8484748601913452}, "76142": {"1.0": 0.8552172183990479}, "90520": {"1.0": 0.8572266101837158}, "79026": {"1.0": 0.8391465544700623}, "51079": {"1.0": 0.8547255396842957}, "77045": {"1.0": 0.8599481582641602}}
+
+10%
+{"33309": {"1.0": 0.8813129663467407}, "79487": {"1.0": 0.8613385558128357}, "19050": {"1.0": 0.8600220680236816}, "80294": {"1.0": 0.8544276356697083}, "64159": {"1.0": 0.876462996006012}, "28491": {"1.0": 0.8878325819969177}, "10034": {"1.0": 0.8519338369369507}, "31911": {"1.0": 0.8371747732162476}, "30813": {"1.0": 0.8440570831298828}, "91814": {"1.0": 0.87070631980896}}
+
+25%
+{"86414": {"1.0": 0.8404955863952637}, "76009": {"1.0": 0.8650189638137817}, "51050": {"1.0": 0.8711742758750916}, "21221": {"1.0": 0.879660964012146}, "47303": {"1.0": 0.8642787337303162}, "5889": {"1.0": 0.861233115196228}, "46305": {"1.0": 0.8573543429374695}, "37446": {"1.0": 0.8718445301055908}, "45033": {"1.0": 0.8767088055610657}, "57427": {"1.0": 0.8794848918914795}}
+
+50%
+{"2674": {"1.0": 0.8555490970611572}, "61096": {"1.0": 0.8728906512260437}, "45980": {"1.0": 0.8871555924415588}, "92530": {"1.0": 0.8528964519500732}, "70830": {"1.0": 0.882567286491394}, "41906": {"1.0": 0.8730729222297668}, "33854": {"1.0": 0.8736522793769836}, "41871": {"1.0": 0.865990936756134}, "38250": {"1.0": 0.8675652742385864}, "25603": {"1.0": 0.8756278157234192}}
+
+75%
+{"16569": {"1.0": 0.8685988187789917}, "96058": {"1.0": 0.8730908632278442}, "93194": {"1.0": 0.873903214931488}, "90483": {"1.0": 0.8354082107543945}, "40511": {"1.0": 0.8748939037322998}, "87877": {"1.0": 0.8629785180091858}, "71243": {"1.0": 0.8749030232429504}, "23368": {"1.0": 0.8620527386665344}, "21268": {"1.0": 0.8203084468841553}, "92315": {"1.0": 0.8674981594085693}}
+
+100%
+{"36247":{"1.0":0.8619571924209595},"16886":{"1.0":0.8766682744026184},"4438":{"1.0":0.8630155324935913},"79191":{"1.0":0.8763516545295715},"62499":{"1.0":0.856299102306366},"69867":{"1.0":0.8628385663032532},"98828":{"1.0":0.8674750924110413},"48271":{"1.0":0.8758614659309387},"64766":{"1.0":0.8701708316802979},"92359":{"1.0":0.8745738863945007}}
+
+
+industry-gru
+5%
+{"72331": [0.8121832013130188, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v400.ckpt"], "62033": [0.8915010690689087, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v402.ckpt"], "8781": [0.8957458138465881, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v405.ckpt"], "18444": [0.8348381519317627, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v414.ckpt"], "81833": [0.8257861733436584, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v416.ckpt"], "47682": [0.7897036671638489, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v421.ckpt"], "74782": [0.8087276816368103, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v425.ckpt"], "87922": [0.8460936546325684, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v431.ckpt"], "30289": [0.90391606092453, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v434.ckpt"], "98432": [0.8672419786453247, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v440.ckpt"]}
+['400', '402', '405', '414', '416', '421', '425', '431', '434', '440']
+
+10%
+{"13359": [0.8304924964904785, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v401.ckpt"], "22558": [0.834027111530304, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v403.ckpt"], "62354": [0.850165605545044, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v408.ckpt"], "59860": [0.8227242827415466, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v415.ckpt"], "60759": [0.815094530582428, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v418.ckpt"], "67117": [0.8743228316307068, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v422.ckpt"], "36438": [0.8071514964103699, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v428.ckpt"], "32678": [0.8693056702613831, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v433.ckpt"], "80383": [0.7771645188331604, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v439.ckpt"], "96924": [0.8255598545074463, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v445.ckpt"]}
+['401', '403', '408', '415', '418', '422', '428', '433', '439', '445']
+
+
+25%
+{"94257": [0.8756449818611145, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v404.ckpt"], "47516": [0.8669700026512146, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v420.ckpt"], "72117": [0.8315941691398621, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v432.ckpt"], "80244": [0.7897218465805054, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v448.ckpt"], "34913": [0.8349406719207764, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v452.ckpt"], "25114": [0.7910270094871521, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v459.ckpt"], "11977": [0.8332833051681519, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v461.ckpt"], "6308": [0.8056259751319885, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v463.ckpt"], "31117": [0.8368023037910461, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v467.ckpt"], "97433": [0.8328791260719299, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v469.ckpt"]}
+['404', '420', '432', '448', '452', '459', '461', '463', '467', '469']
+
+
+50%
+{"3867": [0.8159037828445435, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v406.ckpt"], "92900": [0.8148136734962463, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v441.ckpt"], "91488": [0.8146749138832092, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v451.ckpt"], "12790": [0.8231262564659119, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v464.ckpt"], "79590": [0.8179696202278137, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v472.ckpt"], "24813": [0.8481006026268005, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v480.ckpt"], "53018": [0.8192587494850159, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v483.ckpt"], "25795": [0.8425521850585938, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v489.ckpt"], "25862": [0.8464752435684204, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v492.ckpt"], "40018": [0.8378031253814697, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v494.ckpt"]}
+['406', '441', '451', '464', '472', '480', '483', '489', '492', '494']
+
+
+75%
+{"6853": [0.8492813110351562, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v407.ckpt"], "5672": [0.8573824763298035, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v430.ckpt"], "94778": [0.8477511405944824, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v457.ckpt"], "91264": [0.8631244897842407, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v470.ckpt"], "84181": [0.8329887986183167, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v478.ckpt"], "20129": [0.8300181031227112, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v486.ckpt"], "55068": [0.8224643468856812, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v490.ckpt"], "5304": [0.8337439894676208, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v496.ckpt"], "2456": [0.8298200964927673, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v497.ckpt"], "44927": [0.8363573551177979, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v499.ckpt"]}
+['407', '430', '457', '470', '478', '486', '490', '496', '497', '499']
+
+
+100%
+
+
+fine-gru
+5%
+{"35415": {"1.0": 0.817258894443512}, "49086": {"1.0": 0.8213554620742798}, "11705": {"1.0": 0.83385169506073}, "17881": {"1.0": 0.8247970938682556}, "58587": {"1.0": 0.8174298405647278}, "43254": {"1.0": 0.8333702087402344}, "90840": {"1.0": 0.7903771996498108}, "82868": {"1.0": 0.8213630318641663}, "71127": {"1.0": 0.7964759469032288}, "97583": {"1.0": 0.8405528664588928}}
+
+10%
+{"65640": {"1.0": 0.8120973706245422}, "50885": {"1.0": 0.840057909488678}, "28802": {"1.0": 0.8228207230567932}, "4604": {"1.0": 0.817070722579956}, "26612": {"1.0": 0.8420043587684631}, "66139": {"1.0": 0.8140747547149658}, "18326": {"1.0": 0.8455343246459961}, "50841": {"1.0": 0.8210803866386414}, "76703": {"1.0": 0.8222002387046814}, "41774": {"1.0": 0.8289924263954163}}
+
+25%
+{"89267": {"1.0": 0.8156275153160095}, "23849": {"1.0": 0.8242368102073669}, "34459": {"1.0": 0.8373939394950867}, "94954": {"1.0": 0.8356130123138428}, "21606": {"1.0": 0.8123639225959778}, "25943": {"1.0": 0.8287704586982727}, "74840": {"1.0": 0.8166165947914124}, "92041": {"1.0": 0.856061577796936}, "20722": {"1.0": 0.8381929397583008}, "58028": {"1.0": 0.8109675049781799}}
+
+50%
+{"3359": {"1.0": 0.8415334224700928}, "94722": {"1.0": 0.834879457950592}, "47792": {"1.0": 0.8274343609809875}, "66953": {"1.0": 0.8469387888908386}, "79181": {"1.0": 0.8468667268753052}, "60272": {"1.0": 0.8277679681777954}, "98575": {"1.0": 0.8267961144447327}, "15309": {"1.0": 0.8369070887565613}, "6155": {"1.0": 0.8194270133972168}, "41124": {"1.0": 0.843170166015625}}
+
+75%
+{"29626": {"1.0": 0.8444143533706665}, "82043": {"1.0": 0.837853729724884}, "36875": {"1.0": 0.8440775275230408}, "60226": {"1.0": 0.8257033228874207}, "6081": {"1.0": 0.8228437304496765}, "844": {"1.0": 0.822315514087677}, "38661": {"1.0": 0.813488245010376}, "66221": {"1.0": 0.818818986415863}, "92700": {"1.0": 0.8220295310020447}, "82103": {"1.0": 0.8294816613197327}}
+
+100%
+{"84643":{"1.0":0.8330135345458984},"59958":{"1.0":0.8332542777061462},"97611":{"1.0":0.8027583360671997},"37337":{"1.0":0.8102119565010071},"24309":{"1.0":0.8370369076728821},"11617":{"1.0":0.833215057849884},"67359":{"1.0":0.8189885020256042},"62119":{"1.0":0.8169348835945129},"77935":{"1.0":0.8276951909065247},"48465":{"1.0":0.8431136608123779}}
+
+train
+{"79804":{"1.0":0.8444298505783081},"93130":{"1.0":0.8215795755386353},"83820":{"1.0":0.8423995971679688},"57615":{"1.0":0.830062985420227},"24994":{"1.0":0.8463863730430603},"20939":{"1.0":0.8329499363899231},"76719":{"1.0":0.8545706868171692},"35471":{"1.0":0.8485456109046936},"79620":{"1.0":0.8325459957122803},"49342":{"1.0":0.8409376740455627}}
+
+
+##################################################################################################################################################
+
+
+2-64
+
+industry-lstm
+5%
+{"73916": [0.8331376910209656, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v500.ckpt"], "77284": [0.864845335483551, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v504.ckpt"], "48577": [0.7803589105606079, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v514.ckpt"], "12194": [0.8597402572631836, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v517.ckpt"], "7116": [0.7238715291023254, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v520.ckpt"], "61710": [0.8970292210578918, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v527.ckpt"], "8861": [0.8642224669456482, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v535.ckpt"], "52708": [0.8921833038330078, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v542.ckpt"], "51034": [0.7489723563194275, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v548.ckpt"], "4066": [0.8597025275230408, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v557.ckpt"]}
+['500', '504', '514', '517', '520', '527', '535', '542', '548', '557']
+
+
+10%
+{"94434": [0.8265280723571777, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v501.ckpt"], "73590": [0.8424267172813416, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v512.ckpt"], "87326": [0.830083429813385, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v518.ckpt"], "44535": [0.7522062659263611, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v528.ckpt"], "2605": [0.7232463359832764, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v540.ckpt"], "69067": [0.8723313808441162, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v547.ckpt"], "96096": [0.8112723231315613, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v558.ckpt"], "37338": [0.8160536885261536, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v562.ckpt"], "16792": [0.8733687996864319, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v566.ckpt"], "68457": [0.7555913329124451, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v569.ckpt"]}
+['501', '512', '518', '528', '540', '547', '558', '562', '566', '569']
+
+
+25%
+{"37223": [0.8525985479354858, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v502.ckpt"], "80679": [0.8819481730461121, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v522.ckpt"], "10225": [0.8808448314666748, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v536.ckpt"], "54359": [0.8669822812080383, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v550.ckpt"], "15062": [0.8532260656356812, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v563.ckpt"], "41980": [0.8545293807983398, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v574.ckpt"], "53935": [0.8639521598815918, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v580.ckpt"], "22153": [0.8441529273986816, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v585.ckpt"], "95890": [0.857005774974823, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v590.ckpt"], "31357": [0.8821470737457275, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v593.ckpt"]}
+['502', '522', '536', '550', '563', '574', '580', '585', '590', '593']
+
+
+50%
+{"68179": [0.8229542374610901, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v503.ckpt"], "29482": [0.8502537608146667, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v524.ckpt"], "44771": [0.8559502363204956, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v544.ckpt"], "61671": [0.8450077176094055, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v560.ckpt"], "84919": [0.8545837998390198, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v570.ckpt"], "95288": [0.8375821709632874, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v577.ckpt"], "61120": [0.868389904499054, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v581.ckpt"], "8436": [0.8541238307952881, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v588.ckpt"], "83027": [0.8352055549621582, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v594.ckpt"], "16050": [0.8307039141654968, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v596.ckpt"]}
+['503', '524', '544', '560', '570', '577', '581', '588', '594', '596']
+
+
+75%
+{"46387": [0.8760806918144226, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v506.ckpt"], "25795": [0.8384425044059753, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v538.ckpt"], "25862": [0.8270706534385681, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v565.ckpt"], "40018": [0.8555376529693604, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v578.ckpt"], "46114": [0.8532983660697937, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v584.ckpt"], "47347": [0.8592298626899719, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v592.ckpt"], "20327": [0.8331992626190186, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v595.ckpt"], "55193": [0.8564364910125732, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v597.ckpt"], "74190": [0.8564781546592712, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v598.ckpt"], "49006": [0.8281209468841553, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v599.ckpt"]}
+['506', '538', '565', '578', '584', '592', '595', '597', '598', '599']
+
+
+100%
+
+
+fine-lstm
+train-0%
+{"44742":{"1.0":0.8733353018760681},"40404":{"1.0":0.8763107061386108},"2974":{"1.0":0.8670954704284668},"77362":{"1.0":0.8618689775466919},"29157":{"1.0":0.8512046337127686},"10537":{"1.0":0.8523597717285156},"3731":{"1.0":0.8670021295547485},"271":{"1.0":0.8796485662460327},"61025":{"1.0":0.8789064288139343},"30093":{"1.0":0.8619288206100464}}
+
+5%
+{"93230": {"1.0": 0.8967941999435425}, "28941": {"1.0": 0.8692241311073303}, "86260": {"1.0": 0.8546624183654785}, "22243": {"1.0": 0.8676398992538452}, "63424": {"1.0": 0.8702970743179321}, "80914": {"1.0": 0.8510661721229553}, "31064": {"1.0": 0.8880977034568787}, "8449": {"1.0": 0.8525525331497192}, "94825": {"1.0": 0.8638266921043396}, "42395": {"1.0": 0.8740726709365845}}
+
+10%
+{"19391": {"1.0": 0.8805555701255798}, "5835": {"1.0": 0.8767253756523132}, "76427": {"1.0": 0.8569280505180359}, "1504": {"1.0": 0.8698269724845886}, "52000": {"1.0": 0.8725695610046387}, "54940": {"1.0": 0.8690921664237976}, "24300": {"1.0": 0.8825079202651978}, "69386": {"1.0": 0.8669512867927551}, "66947": {"1.0": 0.8495725989341736}, "56838": {"1.0": 0.8679410219192505}}
+
+25%
+{"76950": {"1.0": 0.866675078868866}, "99426": {"1.0": 0.8571780323982239}, "19572": {"1.0": 0.8451512455940247}, "52295": {"1.0": 0.8752633929252625}, "75528": {"1.0": 0.8804945349693298}, "11045": {"1.0": 0.8547046184539795}, "3199": {"1.0": 0.8710854649543762}, "84262": {"1.0": 0.8736223578453064}, "28385": {"1.0": 0.8670337200164795}, "64293": {"1.0": 0.8727983832359314}}
+
+50%
+{"61916": {"1.0": 0.875682532787323}, "83527": {"1.0": 0.8689519166946411}, "33320": {"1.0": 0.872799277305603}, "24558": {"1.0": 0.8640173673629761}, "24003": {"1.0": 0.865576446056366}, "86768": {"1.0": 0.8769881725311279}, "38309": {"1.0": 0.8876211047172546}, "19997": {"1.0": 0.871708333492279}, "58754": {"1.0": 0.8729370832443237}, "38339": {"1.0": 0.8631261587142944}}
+
+75%
+{"90974": {"1.0": 0.8773522973060608}, "78608": {"1.0": 0.8489401936531067}, "98363": {"1.0": 0.8743158578872681}, "26985": {"1.0": 0.8459998369216919}, "16810": {"1.0": 0.8734307885169983}, "74243": {"1.0": 0.8625620007514954}, "7405": {"1.0": 0.8752051591873169}, "72577": {"1.0": 0.8716496229171753}, "16873": {"1.0": 0.8585846424102783}, "63664": {"1.0": 0.8701640963554382}}
+
+100%
+{"44921":{"1.0":0.8530588746070862},"99352":{"1.0":0.8745972514152527},"88953":{"1.0":0.8715733885765076},"26131":{"1.0":0.8556339740753174},"93457":{"1.0":0.8657320141792297},"29713":{"1.0":0.8467910885810852},"66601":{"1.0":0.8735102415084839},"36180":{"1.0":0.8549712896347046},"1201":{"1.0":0.8689982891082764},"47349":{"1.0":0.8777925968170166}}
+
+
+industry-gru
+5%
+{"97233": [0.8266433477401733, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v505.ckpt"], "47771": [0.9073362350463867, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v510.ckpt"], "48676": [0.857693076133728, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v515.ckpt"], "54541": [0.7998129725456238, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v519.ckpt"], "23450": [0.8649781942367554, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v523.ckpt"], "90270": [0.8409233093261719, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v531.ckpt"], "3236": [0.9046240448951721, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v533.ckpt"], "4248": [0.8842063546180725, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v537.ckpt"], "64923": [0.8123116493225098, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v545.ckpt"], "48901": [0.8106713891029358, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v553.ckpt"]}
+['505', '510', '515', '519', '523', '531', '533', '537', '545', '553']
+
+
+10%
+{"37527": [0.8911315202713013, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v507.ckpt"], "86058": [0.8780211210250854, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v513.ckpt"], "19757": [0.8074442148208618, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v516.ckpt"], "35638": [0.880424439907074, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v521.ckpt"], "3451": [0.8506542444229126, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v530.ckpt"], "92255": [0.7986469864845276, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v534.ckpt"], "61631": [0.799456000328064, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v539.ckpt"], "39405": [0.8486920595169067, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v546.ckpt"], "70120": [0.8347036242485046, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v549.ckpt"], "24016": [0.794712245464325, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v554.ckpt"]}
+['507', '513', '516', '521', '530', '534', '539', '546', '549', '554']
+
+
+25%
+{"85939": [0.8104877471923828, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v508.ckpt"], "59063": [0.8728325366973877, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v529.ckpt"], "29806": [0.8395281434059143, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v532.ckpt"], "40911": [0.8834479451179504, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v541.ckpt"], "21479": [0.8291107416152954, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v552.ckpt"], "4235": [0.8488704562187195, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v555.ckpt"], "61672": [0.8486426472663879, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v561.ckpt"], "69214": [0.8718047142028809, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v568.ckpt"], "21740": [0.8321653604507446, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v571.ckpt"], "27797": [0.8636394739151001, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v575.ckpt"]}
+['508', '529', '532', '541', '552', '555', '561', '568', '571', '575']
+
+
+50%
+{"12315": [0.8054358959197998, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v509.ckpt"], "78803": [0.8134464025497437, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v526.ckpt"], "62110": [0.8096626400947571, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v551.ckpt"], "31685": [0.8222577571868896, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v559.ckpt"], "23264": [0.8348714709281921, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v567.ckpt"], "13734": [0.824759840965271, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v573.ckpt"], "77758": [0.8033130168914795, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v579.ckpt"], "65400": [0.8315989971160889, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v583.ckpt"], "97437": [0.8246727585792542, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v587.ckpt"], "1612": [0.8462469577789307, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v591.ckpt"]}
+['509', '526', '551', '559', '567', '573', '579', '583', '587', '591']
+
+
+75%
+{"92741": [0.8469107747077942, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v511.ckpt"], "82688": [0.8326331973075867, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v525.ckpt"], "43353": [0.8482775092124939, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v543.ckpt"], "42101": [0.8462926745414734, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v556.ckpt"], "13605": [0.8468458652496338, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v564.ckpt"], "37016": [0.8449777960777283, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v572.ckpt"], "45253": [0.8320856690406799, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v576.ckpt"], "56630": [0.849800705909729, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v582.ckpt"], "89327": [0.8350470662117004, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v586.ckpt"], "32244": [0.8546919822692871, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v589.ckpt"]}
+['511', '525', '543', '556', '564', '572', '576', '582', '586', '589']
+
+
+100%
+
+
+fine-gru
+5%
+{"58203": {"1.0": 0.8525829315185547}, "71572": {"1.0": 0.8528292179107666}, "60849": {"1.0": 0.8521901369094849}, "7737": {"1.0": 0.8647248148918152}, "84409": {"1.0": 0.8567181825637817}, "50082": {"1.0": 0.8613827228546143}, "893": {"1.0": 0.8630746006965637}, "77298": {"1.0": 0.8594299554824829}, "15416": {"1.0": 0.848335862159729}, "3965": {"1.0": 0.8501490950584412}}
+
+10%
+{"79979": {"1.0": 0.856666624546051}, "50939": {"1.0": 0.8689305186271667}, "35019": {"1.0": 0.8490557074546814}, "32666": {"1.0": 0.864095151424408}, "38927": {"1.0": 0.853641927242279}, "10491": {"1.0": 0.8532660007476807}, "14961": {"1.0": 0.8447489142417908}, "65816": {"1.0": 0.8562053442001343}, "82345": {"1.0": 0.8752168416976929}, "82106": {"1.0": 0.8527978658676147}}
+
+25%
+{"3937": {"1.0": 0.8454017043113708}, "55871": {"1.0": 0.8606241941452026}, "8989": {"1.0": 0.8450257778167725}, "32859": {"1.0": 0.8546976447105408}, "13890": {"1.0": 0.8592562079429626}, "8682": {"1.0": 0.853527307510376}, "21821": {"1.0": 0.8520786762237549}, "48956": {"1.0": 0.8582805395126343}, "73212": {"1.0": 0.868651807308197}, "13310": {"1.0": 0.8510699272155762}}
+
+50%
+{"83694": {"1.0": 0.8707821369171143}, "61236": {"1.0": 0.8602667450904846}, "91247": {"1.0": 0.8353627324104309}, "17093": {"1.0": 0.8573545813560486}, "82763": {"1.0": 0.8652875423431396}, "73961": {"1.0": 0.8597145676612854}, "52617": {"1.0": 0.8504148721694946}, "48412": {"1.0": 0.855212926864624}, "41306": {"1.0": 0.8584957718849182}, "38379": {"1.0": 0.8669173717498779}}
+
+75%
+{"84572": {"1.0": 0.8484097719192505}, "43320": {"1.0": 0.8541897535324097}, "52445": {"1.0": 0.8514175415039062}, "10088": {"1.0": 0.8575826287269592}, "61012": {"1.0": 0.8527785539627075}, "57209": {"1.0": 0.8633623123168945}, "67117": {"1.0": 0.8423594832420349}, "36438": {"1.0": 0.8529182076454163}, "32678": {"1.0": 0.8547527194023132}, "80383": {"1.0": 0.8557530641555786}}
+
+100%
+{"19971":{"1.0":0.8451408743858337},"92969":{"1.0":0.8514360189437866},"22778":{"1.0":0.866676926612854},"72919":{"1.0":0.8584800362586975},"6320":{"1.0":0.8509339094161987},"14084":{"1.0":0.8494805097579956},"25500":{"1.0":0.8612879514694214},"31965":{"1.0":0.8473800420761108},"92765":{"1.0":0.861405611038208},"72276":{"1.0":0.8543317317962646}}
+
+train
+{"68165":{"1.0":0.8661277294158936},"43576":{"1.0":0.871367871761322},"78399":{"1.0":0.8619463443756104},"37837":{"1.0":0.8515791296958923},"63602":{"1.0":0.8554593324661255},"23096":{"1.0":0.8618558645248413},"86907":{"1.0":0.8475627899169922},"30915":{"1.0":0.84611576795578},"13759":{"1.0":0.8494604229927063},"49448":{"1.0":0.8644564747810364}}
+
+
+
+
+
+
+
+
+
+
+
+

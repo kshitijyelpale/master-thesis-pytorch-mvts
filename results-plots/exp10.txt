@@ -1,0 +1,36 @@
+unsupervised lstm 2-64
+
+industry-pretrain
+
+
+
+phume-fine
+
+
+
+#####################################################################################################################################################################
+
+RAE lstm 128-64
+
+industry-pretrain
+
+
+phume-fine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+industry pre-training
+
+{"87547": [0.9198524355888367, 53, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v1466.ckpt"]}
+{"88824": [0.919074296951294, 38, "/hri/storage/user/kyelpale/Tmp/checkpoints/industry-v1467.ckpt"]}
